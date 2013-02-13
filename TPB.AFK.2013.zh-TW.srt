@@ -216,37 +216,31 @@ We have the biggest damage claim.
 
 54
 00:06:40,320 --> 00:06:44,920
-I represent some of the
-big film studios in Hollywood.
+我代表好萊塢的一些大型電影公司
 
 55
 00:06:45,080 --> 00:06:51,000
-Warner Bros., Columbia,
-20th Century Fox and MGM.
+華納兄弟、哥倫比亞、20世紀福斯和MGM。
 
 56
 00:06:51,160 --> 00:06:55,040
-We're demanding compensations
-of $13 million.
+我們要求1300萬元的賠償金
 
 57
 00:06:55,200 --> 00:06:59,200
-It might seem insanely high.
+這看起來不可思議的高
 
 58
 00:06:59,360 --> 00:07:06,479
-That should be seen as an indicator
-of how big this business is.
+但這表示這是大規模的產業
 
 59
 00:07:06,640 --> 00:07:10,280
-Because this is about
-5 movies during 6 months.
+賠償金是基於6個月當中的5部電影來計算
 
 60
 00:07:10,439 --> 00:07:14,920
-"The Pink Panther", "Syriana",
-one "Harry Potter"-
+"The Pink Panther", "Syriana", one "Harry Potter"-
 
 61
 00:07:15,080 --> 00:07:18,320
@@ -254,250 +248,215 @@ one "Harry Potter"-
 
 62
 00:07:18,479 --> 00:07:21,119
-There is no doubt about
-what they have done.
+他們的犯罪行爲是毋庸置疑的
 
 63
 00:07:21,280 --> 00:07:24,879
-They have run a commercial
-business and making a profit.
+他們利用這種行爲賺取利潤
 
 64
 00:07:25,040 --> 00:07:29,239
-The penalty for this type
-of activity is prison.
+這種犯罪的處罰就是坐牢
 
 65
 00:07:29,400 --> 00:07:31,520
-Not fines.
+不是罰金
 
 66
 00:07:31,680 --> 00:07:37,239
-Fredrik would like to tell his
-version before the prosecutor starts.
+在檢察官開始之前，Fedrik 想要說明他眼中的事實
 
 67
 00:07:37,400 --> 00:07:42,160
-Is that accepted by the prosecutor?
-You may begin, Fredrik Neij.
+請問檢察官同意嗎？
+請說，Fredrik Neij
 
 68
 00:07:42,320 --> 00:07:49,280
-I want to start by saying that I have
-a great interest in computers and IT.
+首先，我對電腦和資訊科技抱有極大的興趣
 
 69
 00:07:49,439 --> 00:07:53,400
-And especially for internet
-and networks.
+尤其是網路和 Internet
 
 70
 00:07:53,560 --> 00:07:59,600
-And that I... Well...
+然後我...呃...
 
 71
 00:07:59,760 --> 00:08:04,160
-...I've lost my train of thought.
+...我忘記我要講什麼了
 
 72
 00:08:04,320 --> 00:08:10,200
-You forgot what you were saying.
-You had a long interest in IT.
+你忘記你剛剛在說什麼了，你剛剛說你對資訊科技很有興趣
 
 73
 00:08:10,360 --> 00:08:16,520
-I got involved in the Pirate Bay
-because of my interest in IT.
+基於我對資訊科技的興趣，我參與了海盜灣
 
 74
 00:08:16,680 --> 00:08:21,800
-I think it's great fun
-to work with technology.
+我覺得做科技類的事情非常有趣
 
 75
 00:08:23,439 --> 00:08:26,680
-For me, the Pirate Bay
-is a technical challenge.
+對我來說，海盜灣是一個技術上的挑戰
 
 76
 00:08:26,840 --> 00:08:33,000
-To run such a large website
-and such a large tracker technically.
+實際上去營運這麼大的網站和 Tracker
 
 77
 00:08:33,160 --> 00:08:41,680
-Play with computers that I could
-never afford to play with on my own.
+還可以玩到我永遠也買不起的電腦設備
 
 78
 00:08:41,840 --> 00:08:45,040
-First I want to ask you...
+首先我要問你...
 
 79
 00:08:45,200 --> 00:08:51,000
-The media often describes you
-as a computer genius.
+媒體將你描述爲電腦天才
 
 80
 00:08:51,160 --> 00:08:54,920
-How would you describe
-your competence yourself?
+你會如何描述你自己的能力？
 
 81
 00:08:55,080 --> 00:08:57,760
-I do have a certain
-technical competence, yes.
+我確實有一定程度技術上的能力
 
 82
 00:08:57,920 --> 00:09:03,680
-What does "a certain" mean,
-compared to others?
+「一定程度」是什麼意思，相對於一般人來說？
 
 83
 00:09:03,840 --> 00:09:11,280
-I'm not sure this is the right time,
-place or medium to post my CV.
+我不覺得這是一個宣傳我的履歷表的時間和地點
 
 84
 00:09:11,439 --> 00:09:15,800
-But I am asking you.
-Please answer politely.
+但是我正在問你，請你禮貌的回答
 
 85
 00:09:15,959 --> 00:09:21,200
-I decline to answer that question.
-It's too much of an estimation.
+我拒絕回答這個問題，我沒有辦法精確的回答
 
 86
 00:09:21,360 --> 00:09:24,239
--It's what?
--Too hard to estimate.
+-什麼意思？
+-這太難以估計
 
 87
 00:09:24,400 --> 00:09:28,560
--Too hard to estimate?
-- It's a very difficult question.
+-太難以估計？
+-這是一個非常複雜的問題
 
 88
 00:09:28,720 --> 00:09:32,560
-How did you meet
-Fredrik and Gottfrid?
+你是怎麼認識 Fredrik 和 Gottfrid 的？
 
 89
 00:09:32,720 --> 00:09:39,360
-I don't remember, but I assume
-it was in a chat room on the internet.
+我不記得了，但我一直當成是在線上聊天室認識的
 
 90
 00:09:39,520 --> 00:09:42,840
-When was the first time
-you met IRL?
+你們第一次「在現實世界 (IRL)」見面是什麼時候？
 
 91
 00:09:43,000 --> 00:09:48,520
-We don't use the expression IRL.
-We say AFK. But that's another issue.
+我們不使用「在現實世界 (IRL)」這種說法，我們說「在鍵盤之外 (AFK)」。但這又是另一回事了
 
 92
 00:09:48,680 --> 00:09:51,360
-I don't remember that either.
+我也不記得
 
 93
 00:09:51,520 --> 00:09:54,600
-Got to know each other IRL?
-What is that?
+第一次「在現實世界 (IRL)」見面？IRL 是什麼意思？
 
 94
 00:09:54,760 --> 00:09:57,680
-In Real Life.
+In Real Life. （在現實世界）
 
 95
 00:09:57,840 --> 00:10:01,520
-We don't like that expression.
-We say AFK - Away From Keyboard.
+我們不喜歡這種說法，我們說 AFK - Away From Keyboard （在鍵盤之外）
 
 96
 00:10:01,680 --> 00:10:04,119
-We think that the internet
-is for real.
+我們覺得 Internet 是玩真的
 
 97
 00:10:11,720 --> 00:10:14,119
-This is what our office looks like.
+這是我們的辦公室
 
 98
 00:10:14,280 --> 00:10:18,600
-Is this inside the Pirate Bay?
+這就是海盜灣內部？
 
 99
 00:10:18,760 --> 00:10:25,680
-Yes. Here are some of
-the people working on it.
+對，這是一些營運人員
 
 100
 00:10:25,840 --> 00:10:28,439
--Are they working on it now?
--Yes.
+-他們現在正在維護它？
+-對
 
 101
 00:10:28,600 --> 00:10:32,280
-Where are they based? In Sweden?
+他們在哪？瑞典？
 
 102
 00:10:32,439 --> 00:10:37,920
-Let's see. USA, USA,
-USA or England, England.
+我看看。美國、美國、美國、英國、英國
 
 103
 00:10:38,080 --> 00:10:40,680
-Finland, I think.
+芬蘭，應該是
 
 104
 00:11:00,439 --> 00:11:02,720
-The Pirate Bay.
+海盜灣
 
 105
 00:11:03,320 --> 00:11:08,200
-This is the web server.
-Data base and search function.
+這是網頁伺服器、資料庫和搜尋程式
 
 106
 00:11:08,360 --> 00:11:12,239
-The trackers are over there.
+Trackers 在那邊
 
 107
 00:11:13,280 --> 00:11:17,760
-This little piece is the tracker.
-It's the world's biggest tracker.
+這機器就是 Tracker ，它是全世界最大的 Tracker
 
 108
 00:11:17,920 --> 00:11:21,720
-It coordinates 50%
-of the world's BitTorrent traffic.
+它協調全世界一半的 BitTorrent 流量
 
 109
 00:11:21,879 --> 00:11:26,160
-Not so many computers,
-but powerful and well-configured.
+電腦沒有很多，但是很強大並且設定良好
 
 110
 00:11:47,680 --> 00:11:50,479
-Half the day has gone.
-How did it feel in court?
+半天過去了，在法院裏感覺如何？
 
 111
 00:11:50,640 --> 00:11:52,680
-So far it's been boring.
+到目前爲止很無聊
 
 112
 00:11:52,840 --> 00:11:58,080
-The prosecutors' strategy is to lie
-as much as possible in the most boring possible way -
+檢察官的策略就是說謊，用儘可能無聊的方式說謊-
 
 113
 00:11:58,239 --> 00:12:02,200
--so you fall asleep in court and become
-physically undable to defend yourself.
+-讓你很想睡覺然後無法爲自己辯護
 
 114
 00:12:02,360 --> 00:12:08,640
